@@ -29,3 +29,5 @@ Notebook attempting to process images with Python and OpenCV.
 ![IMGCV8](https://github.com/GerardRosario/ImageProcessingPython/assets/55461102/eaeaa283-426b-48a6-a728-a5fed8fd9317)
 
 ![IMGCV9](https://github.com/GerardRosario/ImageProcessingPython/assets/55461102/f25cb40f-1fb8-4276-9386-cf16febd38bc)
+
+![IMGCV10](https://github.com/GerardRosario/ImageProcessingPython/assets/55461102/0a214c32-ff0a-4e4e-838f-a8a8866e6eb2)
